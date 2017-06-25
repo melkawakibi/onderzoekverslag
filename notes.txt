@@ -1,0 +1,4 @@
+pagina 30
+1
+Een payload zijn aanval patronen die gebruikt worden bij cyber aanvallen zoals SQl injections en Cross Site Scripting.
+
